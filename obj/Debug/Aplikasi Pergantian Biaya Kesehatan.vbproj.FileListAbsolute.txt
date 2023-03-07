@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\bin\Debug\Aplikasi Pergantian Biaya Kesehatan.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\bin\Debug\Aplikasi Pergantian Biaya Kesehatan.exe
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\bin\Debug\Aplikasi Pergantian Biaya Kesehatan.pdb
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\bin\Debug\Aplikasi Pergantian Biaya Kesehatan.xml
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.Index.resources
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.Login.resources
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.Menu_Karyawan.resources
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.Menu_Pengajuan_PBK.resources
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi Pergantian Biaya Kesehatan.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi Pergantian Biaya Kesehatan.exe
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi Pergantian Biaya Kesehatan.xml
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi Pergantian Biaya Kesehatan.pdb
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi Pergantian Biaya Kesehatan.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.frmLaporan.resources
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.Laporan.resources
+c:\users\user\documents\visual studio 2013\Projects\Aplikasi Pergantian Biaya Kesehatan\Aplikasi Pergantian Biaya Kesehatan\obj\Debug\Aplikasi_Pergantian_Biaya_Kesehatan.Menu_User.resources
